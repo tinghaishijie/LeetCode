@@ -1,4 +1,4 @@
-package Test;
+package leetcode;
 
 public class L198 {
     public int rob(int[] nums) {

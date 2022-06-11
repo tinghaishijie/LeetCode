@@ -1,4 +1,4 @@
-package Test;
+package leetcode;
 
 public class L238 {
     public int[] productExceptSelf(int[] nums) {

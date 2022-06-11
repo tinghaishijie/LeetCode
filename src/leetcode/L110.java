@@ -1,4 +1,4 @@
-package Test;
+package leetcode;
 
 public class L110 {
     public boolean isBalanced(TreeNode root) {

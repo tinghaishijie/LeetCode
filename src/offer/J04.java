@@ -1,4 +1,4 @@
-package Test;
+package offer;
 
 public class J04 {
     public boolean findNumberIn2DArray(int[][] matrix, int target) {

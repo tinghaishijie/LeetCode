@@ -1,4 +1,4 @@
-package Test;
+package leetcode;
 
 public class L208 {
     class Trie {

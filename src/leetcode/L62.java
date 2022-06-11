@@ -1,4 +1,4 @@
-package Test;
+package leetcode;
 
 public class L62 {
     public int uniquePaths(int m, int n) {
